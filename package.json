@@ -1,0 +1,26 @@
+
+{
+    "name": "brackets-nasm-syntax-highlighter",
+    "title": "NASM Assembler Syntax Highlighter",
+    "description": "Brings support for NASM Assembler from CodeMirror to Brackets.",
+    "homepage": "https://github.com/converge/brackets-nasm-syntax-highlighter",
+    "version": "1.0.0",
+    "author": "João Vanzuita",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/converge/brackets-nasm-syntax-highlighter"
+    },
+    "keywords": [
+        "assembly",
+        "assembler",
+        "asm",
+        "nasm",
+        "language",
+        "syntax"        
+    ],
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "categories": "language",
+    "engines": {
+        "brackets": ">=0.40.0"
+    }
+}
